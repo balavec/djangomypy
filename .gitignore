@@ -1,0 +1,6 @@
+htmltypecov
+__pycache__
+typecov
+venv
+.idea
+.mypy_cache
