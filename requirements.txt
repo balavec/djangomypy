@@ -1,5 +1,5 @@
 Django==2.2.7
 django-stubs==1.2.0
-lxml==4.4.1
+lxml==4.6.3
 mypy==0.740
 pytz==2019.3
