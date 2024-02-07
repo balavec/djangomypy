@@ -1,4 +1,4 @@
-Django==2.2.7
+Django==3.2.24
 django-stubs==1.2.0
 lxml==4.4.1
 mypy==0.740
